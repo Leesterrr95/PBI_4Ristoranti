@@ -1,7 +1,7 @@
 
 # Dashboard 4 ristoranti
 
-Sono da sempre un grande appassionato del programma "4 Ristoranti" di Sky e ultimamente una delle mie ipotesi era che l'ultimo ristoratore fosse penalizzato solamente per il fatto di essere ultimo. Ho voluto creare una dashboard sia per verificare che questa mia ipotesi fosse corretta (spoiler :no ) sia per vedere nel dettaglio le città e le regioni che avevano partecipato più volte al programma. Inoltre ho fatto un focus sulla categoria "Special" introdotta a partire dalla quarta stagione.
+Sono da sempre un grande appassionato del programma "4 Ristoranti" di Sky e ultimamente una delle mie ipotesi era che l'ultimo ristoratore fosse penalizzato solamente per il fatto di essere ultimo. Ho voluto creare una dashboard sia per verificare che questa mia ipotesi fosse corretta (spoiler:no) sia per vedere nel dettaglio le città e le regioni che avevano partecipato più volte al programma. Inoltre ho fatto un focus sulla categoria "Special" introdotta a partire dalla quarta stagione.
 
 
 ## Step
