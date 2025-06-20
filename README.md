@@ -95,3 +95,5 @@ IF (
         "No"
     )
 )
+
+Infine ho aggiunto il logo di Sky in alto a sinistra e l'immagine della casa in alto a destra per ritornare alla Homepage.
